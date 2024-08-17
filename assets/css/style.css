@@ -95,7 +95,7 @@ Sidebar heading:  20px 'Outfit', sans-serif
 	--dark-secondary: #022b6d;
 	--dark-optional: #3e00a7;
 	--white: #ffffff;
-	--color-primary: #246BFD;
+	--color-primary: #1a8284;
 	--color-secondary: #0846C6;
 	--color-optional: #ff214a;
 	--color-style-two: #f94735;
@@ -1649,7 +1649,7 @@ p {
 	height: 100%;
 	width: 100%;
 	z-index: -1;
-	background-image: linear-gradient(to right, #246BFD , #a200be, #246BFD );
+	background-image: linear-gradient(to right, #1f8584, #05aa92, #1f8584);
 	-webkit-transition: all 0.25s ease-in-out;
 	transition: all 0.25s ease-in-out;
 	background-size: 220%;
