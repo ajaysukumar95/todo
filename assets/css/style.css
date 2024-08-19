@@ -11459,10 +11459,10 @@ ul.link-list li a {
 .gixus-preloader .animation-preloader::after {
     position: absolute;
     left: 50%;
-    top: 30px;
+    top: 23px;
     content: "";
-    height: 50px;
-    width: 50px;
+    height: 70px;
+    width: 70px;
     background: url(../img/logo-icon.png);
     transform: translateX(-50%);
     background-repeat: no-repeat;
@@ -11474,7 +11474,7 @@ ul.link-list li a {
 	-webkit-animation: spinner 1s infinite linear;
 	animation: spinner 1s infinite linear;
 	border-radius: 50%;
-	border: 3px solid rgba(2, 109, 255, 0.2);
+	border: 3px solid var(--color-secondary);
 	border-top-color: var(--color-primary);
 	height: 110px;
 	margin: 0 auto 30px auto;
