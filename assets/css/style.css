@@ -1,6 +1,6 @@
 /* ----------------------------------
 
-Template Name: Gixus - Business Consulting Template
+Template Name: TODO - Business Consulting
 Author: validtheme
 Description:
 Version: 1.0
@@ -11682,5 +11682,11 @@ ul.link-list li a {
 		opacity: 1;
 		-webkit-transform: rotateY(0deg);
 		transform: rotateY(0deg);
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+	.ml-lg-5{
+		margin-left: 80px;
 	}
 }

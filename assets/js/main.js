@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Gixus - Business Consulting Template
+    Template Name   : TODO - Business Consulting
     Version         : 1.0
     
 * ================================================================= */
